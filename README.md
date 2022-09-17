@@ -38,7 +38,7 @@
   - Duplicate detection enabled
   - Simple and similar interface, similar to excel 
 - Java also supports low end systems 
-- Repository support provided by author hariJP for bug reports and doubts.
+- User support provided by author hariJP for bug reports and doubts.
 
 ##
 ### Installation
