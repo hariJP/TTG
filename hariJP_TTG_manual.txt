@@ -1,0 +1,17 @@
+For Linux and Mac users :  TTG.jar
+You will need to install java runtime environment (JRE) first.
+This is the rewritten orginal windows application in Java for Linux and Mac users. 
+
+For windows users.
+TTG.jar will work on windows too, but native windows application is also given.
+Run  the  standard  setup program -  College Time Table Setup 2.2 (For Windows).exe
+This will create the desktop shortcut with icon. This is stand alone setup pack.
+You will not need JRE or any other package for this executable.
+The look and feel of windows application will be different but both have almost same features. 
+
+Thanks
+J.Hariprasath_Git@hariJP
+
+
+
+ 
