@@ -32,12 +32,12 @@
 
 - Latest and updated logs with very simple interface.
 - User friendly
-- Multiple staffinging options
+- Multiple staffing options
   - Staff code
   - Demo module for understanding
   - Duplicate detection enabled
-  - Simple and similar interface similar to excel 
-- Java also supports for low end systems 
+  - Simple and similar interface, similar to excel 
+- Java also supports low end systems 
 - Repository support provided by author hariJP for bug reports and doubts.
 
 ##
