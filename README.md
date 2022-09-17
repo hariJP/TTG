@@ -23,7 +23,7 @@
 
 ##
 <h3><p align="center">Disclaimer</p></h3>
-<i>Any actions and or activities related to <b>TTG</b> is solely your responsibility.
+<i>Any actions or activities related to <b>TTG</b> is solely your responsibility.
 <b>This Tool is made for institutional/organizational purposes only.
 
 ##
