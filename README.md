@@ -54,7 +54,7 @@
   ```
   
 
-- On first launch, It'll seeks for updates. ***TGG*** is installed.
+- On first launch, It'll seeks for updates. Then ***TGG*** is installed.
 
 ##
 
