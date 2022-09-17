@@ -1,7 +1,7 @@
 <!-- TTG -->
 
 <p align="center">
-  <img src=".images/TTG.png">
+  <img src="TTG.png">
 </p>
 
 <p align="center">
@@ -91,7 +91,7 @@
 
 <h3 align="center"><i>Interface</i></h3>
 <p align="center">
-<img src=".github/misc/interface.png"/>
+<img src="interface.png"/>
 </p>
 
 ##
