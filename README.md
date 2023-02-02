@@ -2,7 +2,9 @@
 
 <p align="center">
   <img src="TTG.png">
-</p>
+</p> Cancel
+Footer
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/VERSION-1.0.1-green">
@@ -53,7 +55,7 @@
 
 <b>TTG</b> requires following programs to run properly - 
 - `git`
-- `python3``
+- `python3`
 - `c`
 > Make sure all the dependencies that is included in the program are installed before running the py/c program.
 
@@ -65,13 +67,13 @@
 <details>
   <summary><h3>Tested on</h3></summary>
 <p align="left">
--`Kali`
--`Ubuntu`
--`Debian`
--`Arch`
--`Manjaro`
--`Fedora`
--`Windows`
+- `Kali`
+- `Ubuntu`
+- `Debian`
+- `Arch`
+- `Manjaro`
+- `Fedora`
+- `Windows`
 
 
 
