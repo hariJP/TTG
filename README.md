@@ -57,9 +57,7 @@
 - `c`
 > Make sure all the dependencies that is included in the program are installed before running the py/c program.
 
- ##
-
-</details>
+ 
   
 ##
 ###Tested on
