@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="TTG.png">
-</p>
+</p>##
 
 <p align="center">
   <img src="https://img.shields.io/badghttps://github.com/hariJP/TTG/edit/main/e/VERSION-1.0.1-green">
@@ -61,6 +61,8 @@
  ##
 
 </details>
+  
+  ##
 <details>
   <summary><h3>Tested on</h3></summary>
 - **Kali**
@@ -77,8 +79,8 @@
 ##
 
 
-### Find Me on:installed
-<p align="left">installed
+### Find Me on:
+<p align="left">
   <a href="https://www.instagram.com/hari.jayram" target="_blank"><img src="https://img.shields.io/badge/Socials-grey?style=for-the-badge&logo=linktree"></a>
   <a href="https://github.com/hariJP" target="_blank"><img src="https://img.shields.io/badge/Github-blue?style=for-the-badge&logo=github"></a>
 </p>
