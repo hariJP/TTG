@@ -60,7 +60,9 @@
  
   
 ##
+  
 ###Tested on
+<p align="left">
 ```Kali```
 ```Ubuntu```
 ```Debian```
@@ -68,7 +70,7 @@
 ```Manjaro```
 ```Fedora```
 ```Windows```
-</details>
+
 
 
 
