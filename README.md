@@ -15,29 +15,24 @@
   <img src="https://img.shields.io/badge/Author-hariJP-blue">
   <img src="https://img.shields.io/badge/Open%20Source-yes-brightgreen">
   <img src="https://img.shields.io/badge/Maintained%3F-yes-9cf">
-  <img src="https://img.shields.io/badge/Written%20In-java-blue">
+  <img src="https://img.shields.io/badge/Written%20In-Py/C-blue">
 
 </p>
 
-<p align="center"><b>A User Friendly Time Table Generating Program Written In Java.</b></p>
+<p align="center"><b>A User Friendly Time Table Generating Programs Written In Python & C.</b></p>
 
 ##
 <h3><p align="center">Disclaimer</p></h3>
 <i>Any actions or activities related to <b>TTG</b> is solely your responsibility.
-<b>This Tool is made for institutional/organizational purposes only.
+<b>This Tools/Programs are made for Institutional/Organizational/Educational purposes only.
 
 ##
 
 ### Features
 
-- Latest and updated logs with very simple interface.
-- User friendly
-- Multiple staffing options
-  - Staff code
-  - Demo module for understanding
-  - Duplicate detection enabled
-  - Simple and similar interface, similar to excel 
-- Java also supports low end systems 
+- Latest and updated formats with very CLI's.
+- User friendly  .
+- All codes are written using python & c.
 - User support provided by author hariJP for bug reports and doubts.
 
 ##
@@ -48,13 +43,7 @@
   git clone https://github.com/hariJP/TTG
   ```
 
-- Now go to cloned directory and run using 
-  ```
-  java
-  ```
-  
-
-- On first launch, It'll seeks for updates. Then ***TGG*** is installed.
+- Then ***TGG*** programs are ready to run.
 
 ##
 
@@ -65,17 +54,17 @@
 
 <b>TTG</b> requires following programs to run properly - 
 - `git`
-- `java`
-- `jar or jre`
+- `python3`
+- `c`
 
-> All the dependencies will be installed automatically when you run **TGG** for the first time.
+> Make sure all the dependencies that is included in the program are installed before running the py/c program.
 
 
 </details>
 
 <details>
   <summary><h3>Tested on</h3></summary>
-
+installed
 - **Kali**
 - **Ubuntu**
 - **Debian**
@@ -95,8 +84,8 @@
 </p>
 
 ##
-### Find Me on:
-<p align="left">
+### Find Me on:installed
+<p align="left">installed
   <a href="https://www.instagram.com/hari.jayram" target="_blank"><img src="https://img.shields.io/badge/Socials-grey?style=for-the-badge&logo=linktree"></a>
   <a href="https://github.com/hariJP" target="_blank"><img src="https://img.shields.io/badge/Github-blue?style=for-the-badge&logo=github"></a>
 </p>
