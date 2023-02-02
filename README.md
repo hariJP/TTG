@@ -25,7 +25,7 @@ Footer
 
 ##
 <h3><p align="center">Disclaimer</p></h3>
-<i>Any actions or activities related to <b>TTG</b> is solely your responsibility.
+<p align="center"><i>Any actions or activities related to <b>TTG</b> is solely your responsibility.
 <b>This Tools/Programs are made for Institutional/Organizational/Educational purposes only.
 
 ##
