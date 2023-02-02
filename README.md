@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badghttps://github.com/hariJP/TTG/edit/main/e/VERSION-1.0.1-green">
-  <img src="https://img.shields.io/badge/LICENSE-GNU%20v3.0-orange">https://github.com/hariJP/TTG/edit/main/
+  <img src="https://img.shields.io/badge/LICENSE-GNU%20v3.0-orange">
   <img src="https://img.shields.io/badge/ISSUES-0%20OPEN-red">
   
 </p>
@@ -45,7 +45,6 @@
 
 - Then ***TGG*** programs are ready to run.
 
-##
 
 ##
 
@@ -59,16 +58,15 @@
 
 > Make sure all the dependencies that is included in the program are installed before running the py/c program.
 
+ ##
 
 </details>
-
 <details>
-  <summary><h3>Tested on</h3></summary>https://github.com/hariJP/TTG/edit/main/
-installed
+  <summary><h3>Tested on</h3></summary>
 - **Kali**
 - **Ubuntu**
 - **Debian**
-- **Arch**https://github.com/hariJP/TTG/edit/main/
+- **Arch**
 - **Manjaro**
 - **Fedora**
 - **Windows**
