@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="TTG.png">
-</p>##
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/VERSION-1.0.1-green">
