@@ -21,7 +21,7 @@ Footer
 
 </p>
 
-<p align="center"><b>A User Friendly Time Table Generating Programs Written In Python & C.</b></p>
+<p align="center"><b>A Set of Time Table Generating Programs Written In Python & C.</b></p>
 
 ##
 <h3><p align="center">Disclaimer</p></h3>
