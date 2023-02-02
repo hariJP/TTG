@@ -65,13 +65,13 @@
   ##
 <details>
   <summary><h3>Tested on</h3></summary>
-- **Kali**
-- **Ubuntu**
-- **Debian**
-- **Arch**
-- **Manjaro**
-- **Fedora**
-- **Windows**
+- ```Kali```
+- ```Ubuntu```
+- ```Debian```
+- ```Arch```
+- ```Manjaro```
+- ```Fedora```
+- ```Windows```
 </details>
 
 
