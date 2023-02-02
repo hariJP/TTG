@@ -5,7 +5,7 @@
 </p>##
 
 <p align="center">
-  <img src="https://img.shields.io/badghttps://github.com/hariJP/TTG/edit/main/e/VERSION-1.0.1-green">
+  <img src="https://img.shields.io/badge/VERSION-1.0.1-green">
   <img src="https://img.shields.io/badge/LICENSE-GNU%20v3.0-orange">
   <img src="https://img.shields.io/badge/ISSUES-0%20OPEN-red">
   
