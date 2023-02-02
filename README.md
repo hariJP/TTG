@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/Author-hariJP-blue">
   <img src="https://img.shields.io/badge/Open%20Source-yes-brightgreen">
   <img src="https://img.shields.io/badge/Maintained%3F-yes-9cf">
-  <img src="https://img.shields.io/badge/Written%20In-Py/C-blue">
+  <img src="https://img.shields.io/badge/Written%20In-Py&C-blue">
 
 </p>
 
@@ -55,7 +55,6 @@
 - `git`
 - `python3`
 - `c`
-
 > Make sure all the dependencies that is included in the program are installed before running the py/c program.
 
  ##
@@ -63,15 +62,14 @@
 </details>
   
   ##
-<details>
-  <summary><h3>Tested on</h3></summary>
-- ```Kali```
-- ```Ubuntu```
-- ```Debian```
-- ```Arch```
-- ```Manjaro```
-- ```Fedora```
-- ```Windows```
+###Tested on
+```Kali```
+```Ubuntu```
+```Debian```
+```Arch```
+```Manjaro```
+```Fedora```
+```Windows```
 </details>
 
 
