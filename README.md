@@ -61,7 +61,9 @@
   
 ##
   
-###Tested on
+###
+<details>
+  <summary><h3>Tested on</h3></summary>
 <p align="left">
 ```Kali```
 ```Ubuntu```
