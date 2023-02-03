@@ -2,8 +2,7 @@
 
 <p align="center">
   <img src="TTG.png">
-</p> Cancel
-Footer
+</p> 
 
 
 <p align="center">
